@@ -1,0 +1,10 @@
+{
+    "name": "asus/composer",
+    "authors": [
+        {
+            "name": "qiwen.xu",
+            "email": "qiwen.xu@baisonmail.com"
+        }
+    ],
+    "require": {}
+}
